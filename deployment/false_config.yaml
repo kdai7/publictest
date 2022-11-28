@@ -3,7 +3,7 @@ kind: ConfigMap
 deploy.razee.io/Reconcile: false
 metadata:
   name: false-reconcile-config
-  namespace: default
+  namespace: newns
   annotations:
     version: "v0.0.2"
   labels:

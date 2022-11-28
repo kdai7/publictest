@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: branch-config-test
-  namespace: default
+  namespace: newns
   annotations:
     version: "v0.0.2"
   labels:
