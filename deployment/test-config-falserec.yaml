@@ -7,7 +7,7 @@ metadata:
     version: "v0.0.2"
   labels:
     razee/watch-resource: "lite"
-    'deploy.razee.io/Reconcile': false
+    'deploy.razee.io/Reconcile': "false"
 data:
   key1: "1"
   key2: "2"
